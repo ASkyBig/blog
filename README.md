@@ -6,7 +6,7 @@
 
 ---
 
-### 一些好东西
+### articles
 #### HTTP
 - [在浏览器地址栏输入一个URL后回车，背后会进行哪些技术步骤？ - 车小胖的回答 - 知乎](https://www.zhihu.com/question/34873227/answer/518086565)
 
@@ -24,3 +24,15 @@
 
 #### 其它
 - [中台的末路](https://xargin.com/the-death-of-middleground/)
+
+---
+### tools
+
+#### css 相关
+
+- [css-tricks](https://css-tricks.com/the-sass-ampersand/)：怎么使用 scss
+
+- [iconfont](https://www.iconfont.cn/)：阿里icon
+
+- [flexbox](https://drafts.csswg.org/css-flexbox-1/#layout-algorithm)：flexbox 草案
+
