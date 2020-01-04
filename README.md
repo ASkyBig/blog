@@ -22,6 +22,8 @@
 - [(建议精读)原生JS灵魂之问(中)，检验自己是否真的熟悉JavaScript？](https://juejin.im/post/5dbebbfa51882524c507fddb)
 - [(2.4w字,建议收藏)😇原生JS灵魂之问(下), 冲刺🚀进阶最后一公里(附个人成长经验分享)](https://juejin.im/post/5dd8b3a851882572f56b578f#heading-79)
 
+- [如何写出一个惊艳面试官的深拷贝？](https://juejin.im/post/5d6aa4f96fb9a06b112ad5b1)
+
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
 - [React Fiber 的优先级调度机制与事件系统](https://zhuanlan.zhihu.com/p/95443185)
