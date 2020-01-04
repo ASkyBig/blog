@@ -24,6 +24,8 @@
 
 - [如何写出一个惊艳面试官的深拷贝？](https://juejin.im/post/5d6aa4f96fb9a06b112ad5b1)
 
+- [隔壁小孩也能看懂的 7 种 JavaScript 继承实现](https://juejin.im/post/5ceb468af265da1bd1463585)
+
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
 - [React Fiber 的优先级调度机制与事件系统](https://zhuanlan.zhihu.com/p/95443185)
