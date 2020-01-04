@@ -24,6 +24,7 @@
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
+- [React Fiber 的优先级调度机制与事件系统](https://zhuanlan.zhihu.com/p/95443185)
 
 #### 其它
 - [中台的末路](https://xargin.com/the-death-of-middleground/)
