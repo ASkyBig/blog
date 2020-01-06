@@ -14,6 +14,8 @@
 
 - [你真的了解 Cookie 和 Session 吗](https://juejin.im/post/5cd9037ee51d456e5c5babca)
 
+- [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://juejin.im/entry/5981c5df518825359a2b9476)
+
 #### JavaScript
 - [我用了两个月的时间才理解 let](https://zhuanlan.zhihu.com/p/28140450)
 
