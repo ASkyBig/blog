@@ -31,6 +31,7 @@
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
 - [React Fiber 的优先级调度机制与事件系统](https://zhuanlan.zhihu.com/p/95443185)
+- [深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
 
 #### 其它
 - [中台的末路](https://xargin.com/the-death-of-middleground/)
