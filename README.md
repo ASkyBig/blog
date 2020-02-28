@@ -34,6 +34,7 @@
 
 #### 其它
 - [中台的末路](https://xargin.com/the-death-of-middleground/)
+- [从 8 道面试题看浏览器渲染过程与性能优化](https://juejin.im/post/5e143104e51d45414a4715f7)
 
 ---
 ### tools
