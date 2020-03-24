@@ -30,14 +30,22 @@
 
 - [隔壁小孩也能看懂的 7 种 JavaScript 继承实现](https://juejin.im/post/5ceb468af265da1bd1463585)
 
+- [你不知道的 JSON.stringify () 的威力](https://juejin.im/post/5decf09de51d45584d238319)
+
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
 - [React Fiber 的优先级调度机制与事件系统](https://zhuanlan.zhihu.com/p/95443185)
 - [深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
+- [30 分钟精通 React Hooks](https://juejin.im/post/5be3ea136fb9a049f9121014)
+
+#### CSS
+- [关于 vertical-align 你应该知道的一切](https://juejin.im/post/5e64ee1df265da573e6734ed)
 
 #### 其它
 - [中台的末路](https://xargin.com/the-death-of-middleground/)
 - [从 8 道面试题看浏览器渲染过程与性能优化](https://juejin.im/post/5e143104e51d45414a4715f7)
+- [你真的了解回流和重绘吗](https://juejin.im/post/5c6cb7b4f265da2dae511a3d)
+- [你不知道的浏览器页面渲染机制](https://juejin.im/post/5ca0c0abe51d4553a942c17d)
 
 ---
 ### tools
