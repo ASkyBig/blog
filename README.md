@@ -16,6 +16,8 @@
 
 - [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://juejin.im/entry/5981c5df518825359a2b9476)
 
+- [（建议精读）HTTP 灵魂之问，巩固你的 HTTP 知识体系](https://juejin.im/post/5e76bd516fb9a07cce750746)
+
 #### JavaScript
 - [我用了两个月的时间才理解 let](https://zhuanlan.zhihu.com/p/28140450)
 
