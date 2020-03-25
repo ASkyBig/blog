@@ -112,6 +112,7 @@
 - [前端部署发展史](https://juejin.im/post/5dc4ae67f265da4cfa7bbb9a)
 - [前端 API 层架构，也许你做得还不够](https://juejin.im/post/5de7169451882512454b18d8)
 - [前端模块化：CommonJS,AMD,CMD,ES6](https://juejin.im/post/5aaa37c8f265da23945f365c)
+- [项目不知道如何做性能优化？不妨试一下代码分割](https://juejin.im/post/5e796ec1e51d45271e2a9af9)
 
 #### 一些面试题
 - [总结了 17 年初到 18 年初百场前端面试的面试经验 (含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
