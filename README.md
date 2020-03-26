@@ -79,6 +79,7 @@
 - [你真的了解回流和重绘吗](https://juejin.im/post/5c6cb7b4f265da2dae511a3d)
 - [你不知道的浏览器页面渲染机制](https://juejin.im/post/5ca0c0abe51d4553a942c17d)
 - [1 分钟快速排查内存泄漏](https://juejin.im/post/5dde1b6c5188254d0b0201e6)
+- [为什么所有主要浏览器的 User-Agent 都是 Mozilla/x.0 开头？](https://www.zhihu.com/question/19553117/answer/114306637)
 
 #### Node
 - [你真的懂 package.json 吗](https://juejin.im/post/5dea1095e51d4558083322e2)
@@ -96,6 +97,7 @@
 - [玩转 webpack，使你的打包速度提升 90%](https://juejin.im/post/5e53dbbc518825494905c45f)
 - [【建议改成】读完这篇你还不懂 Babel 我给你寄口罩](https://juejin.im/post/5e477139f265da574c566dda)
 - [不容错过的 Babel7 知识](https://juejin.im/post/5ddff3abe51d4502d56bd143)
+
 
 #### 其他
 - [中台的末路](https://xargin.com/the-death-of-middleground/)
