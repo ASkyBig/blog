@@ -57,6 +57,9 @@
 - [React 开发必须知道的 34 个技巧【近 1W 字】](https://juejin.im/post/5dcb5a80e51d4520db19b906)
 - [深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
 - [30 分钟精通 React Hooks](https://juejin.im/post/5be3ea136fb9a049f9121014)
+- [React Hooks 完全上手指南](https://zhuanlan.zhihu.com/p/92211533)
+- [写 React Hooks 前必读](https://zhuanlan.zhihu.com/p/113216415)
+- [useRequest- 蚂蚁中台标准请求 Hooks](https://zhuanlan.zhihu.com/p/106796295)
 - [呕心沥血，一文看懂 react hooks](https://juejin.im/post/5d985deae51d4577f9285c2f)
 - [让我们坐上 Hooks 的托马斯小火车](https://juejin.im/post/5de7801ae51d455828470e69)
 - [React Hooks 详解 【近 1W 字】+ 项目实战](https://juejin.im/post/5dbbdbd5f265da4d4b5fe57d)
@@ -80,6 +83,7 @@
 - [你不知道的浏览器页面渲染机制](https://juejin.im/post/5ca0c0abe51d4553a942c17d)
 - [1 分钟快速排查内存泄漏](https://juejin.im/post/5dde1b6c5188254d0b0201e6)
 - [为什么所有主要浏览器的 User-Agent 都是 Mozilla/x.0 开头？](https://www.zhihu.com/question/19553117/answer/114306637)
+- [万字详文：深入理解浏览器原理](https://zhuanlan.zhihu.com/p/96986818)
 
 #### Node
 - [你真的懂 package.json 吗](https://juejin.im/post/5dea1095e51d4558083322e2)
