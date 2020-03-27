@@ -85,6 +85,9 @@
 - [为什么所有主要浏览器的 User-Agent 都是 Mozilla/x.0 开头？](https://www.zhihu.com/question/19553117/answer/114306637)
 - [万字详文：深入理解浏览器原理](https://zhuanlan.zhihu.com/p/96986818)
 
+#### 小程序
+- [京喜小程序的高性能打造之路](https://mp.weixin.qq.com/s/nXModRImp4H7iisMQSc2Wg)
+
 #### Node
 - [你真的懂 package.json 吗](https://juejin.im/post/5dea1095e51d4558083322e2)
 - [消息队列助你成为高薪的 Node.js 工程师](https://juejin.im/post/5dd8cd7ae51d4523501f7331)
