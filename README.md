@@ -11,7 +11,6 @@
 
 #### HTTP
 - [在浏览器地址栏输入一个URL后回车，背后会进行哪些技术步骤？ - 车小胖的回答 - 知乎](https://www.zhihu.com/question/34873227/answer/518086565)
-- [在浏览器地址栏输入一个 URL 后回车，背后会进行哪些技术步骤？](https://www.zhihu.com/question/34873227/answer/518086565)
 - [GET 和 POST 到底有什么区别？ - 大宽宽的回答 - 知乎](https://www.zhihu.com/question/28586791/answer/767316172)
 - [99% 的人都理解错了 HTTP 中 GET 与 POST 的区别](https://mp.weixin.qq.com/s?__biz=MzI3NzIzMzg3Mw==&mid=100000054&idx=1&sn=71f6c214f3833d9ca20b9f7dcd9d33e4#rd)
 - [你真的了解 Cookie 和 Session 吗](https://juejin.im/post/5cd9037ee51d456e5c5babca)
