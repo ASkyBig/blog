@@ -157,6 +157,7 @@
 - [如何机智地回答浏览器兼容性问题](https://juejin.im/post/5b3da006e51d4518f140edb2)
 - [【前方高能】新手到高级前端攻城狮都用的上的前端面试题库，备战明年金三银四](https://juejin.im/post/5dcbb828f265da4cf85d84b4)
 - [记一次腾讯社招前端面试（已拿到 offer 入职）](https://juejin.im/post/5dcbb828f265da4cf85d84b4)
+- [一篇非常不错的前端面试文章](https://zhuanlan.zhihu.com/p/27635869)
 ---
 ### tools
 
