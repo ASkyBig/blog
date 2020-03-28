@@ -11,6 +11,7 @@
 
 #### HTTP
 - [在浏览器地址栏输入一个URL后回车，背后会进行哪些技术步骤？ - 车小胖的回答 - 知乎](https://www.zhihu.com/question/34873227/answer/518086565)
+- [在浏览器地址栏输入一个 URL 后回车，背后会进行哪些技术步骤？](https://www.zhihu.com/question/34873227/answer/518086565)
 - [GET 和 POST 到底有什么区别？ - 大宽宽的回答 - 知乎](https://www.zhihu.com/question/28586791/answer/767316172)
 - [99% 的人都理解错了 HTTP 中 GET 与 POST 的区别](https://mp.weixin.qq.com/s?__biz=MzI3NzIzMzg3Mw==&mid=100000054&idx=1&sn=71f6c214f3833d9ca20b9f7dcd9d33e4#rd)
 - [你真的了解 Cookie 和 Session 吗](https://juejin.im/post/5cd9037ee51d456e5c5babca)
@@ -19,6 +20,7 @@
 - [(建议收藏) TCP 协议灵魂之问，巩固你的网路底层基础](https://juejin.im/post/5e527c58e51d4526c654bf41)
 - [前端安全系列（一）：如何防止 XSS 攻击？](https://juejin.im/post/5bad9140e51d450e935c6d64)
 - [我知道的跨域与安全](https://juejin.im/post/5a6320d56fb9a01cb64ee191)
+- [面试官：讲讲 DNS 的原理？](https://zhuanlan.zhihu.com/p/79350395)
 
 #### JavaScript
 - [我用了两个月的时间才理解 let](https://zhuanlan.zhihu.com/p/28140450)
@@ -59,6 +61,7 @@
 - [30 分钟精通 React Hooks](https://juejin.im/post/5be3ea136fb9a049f9121014)
 - [React Hooks 完全上手指南](https://zhuanlan.zhihu.com/p/92211533)
 - [写 React Hooks 前必读](https://zhuanlan.zhihu.com/p/113216415)
+- [React Hooks 第一期：聊聊 useCallback](https://zhuanlan.zhihu.com/p/56975681)
 - [useRequest- 蚂蚁中台标准请求 Hooks](https://zhuanlan.zhihu.com/p/106796295)
 - [呕心沥血，一文看懂 react hooks](https://juejin.im/post/5d985deae51d4577f9285c2f)
 - [让我们坐上 Hooks 的托马斯小火车](https://juejin.im/post/5de7801ae51d455828470e69)
@@ -76,6 +79,7 @@
 - [灵活运用 CSS 开发技巧](https://juejin.im/post/5d4d0ec651882549594e7293)
 - [你需掌握的 CSS 知识都在这了（长文建议收藏，文末有福利）](https://juejin.im/post/5d8336d2f265da03df5f4a06)
 - [妙用 CSS 变量，让你的 CSS 变得更心动](https://juejin.im/post/5e5d0f2ef265da5756325bb9)
+- [从 Chrome 源码看浏览器如何计算 CSS](https://zhuanlan.zhihu.com/p/25380611)
 
 #### 浏览器知识
 - [从 8 道面试题看浏览器渲染过程与性能优化](https://juejin.im/post/5e143104e51d45414a4715f7)
@@ -95,6 +99,7 @@
 #### 后端
 - [学习后端鉴权系列：基于 Cookie, Session 认证](https://juejin.im/post/5d98272be51d4578176b4b6e)
 - [傻傻分不清之 Cookie、Session、Token、JWT](https://juejin.im/post/5e055d9ef265da33997a42cc)
+- [8 分钟带你深入浅出搞懂 Nginx](https://zhuanlan.zhihu.com/p/34943332)
 
 #### 工具
 - [不聊 webpack 配置，来说说它的原理](https://juejin.im/post/5b38d27451882574d87aa5d5)
@@ -122,6 +127,7 @@
 - [前端 API 层架构，也许你做得还不够](https://juejin.im/post/5de7169451882512454b18d8)
 - [前端模块化：CommonJS,AMD,CMD,ES6](https://juejin.im/post/5aaa37c8f265da23945f365c)
 - [项目不知道如何做性能优化？不妨试一下代码分割](https://juejin.im/post/5e796ec1e51d45271e2a9af9)
+- [Android 浏览器下 line-height 垂直居中为什么会偏离？](https://www.zhihu.com/question/39516424/answer/274374076)
 
 #### 一些面试题
 - [总结了 17 年初到 18 年初百场前端面试的面试经验 (含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
