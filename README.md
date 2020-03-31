@@ -49,7 +49,7 @@
 - [Array.from () 五个超好用的用途](https://juejin.im/post/5d66b019f265da03a715e5d7)
 - [Proxy 的巧用](https://juejin.im/post/5d2e657ae51d4510b71da69d)
 - [我还没搞懂 JS 中 this 指向及继承，直到有人向我这样解释它](https://juejin.im/post/5cfd9d30f265da1b94213d28)
-
+- [从 Chrome 源码看 JS Object 的实现](https://zhuanlan.zhihu.com/p/26169639)
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
@@ -129,6 +129,7 @@
 - [前端模块化：CommonJS,AMD,CMD,ES6](https://juejin.im/post/5aaa37c8f265da23945f365c)
 - [项目不知道如何做性能优化？不妨试一下代码分割](https://juejin.im/post/5e796ec1e51d45271e2a9af9)
 - [Android 浏览器下 line-height 垂直居中为什么会偏离？](https://www.zhihu.com/question/39516424/answer/274374076)
+- [计算机的工作原理是什么样的？](https://www.zhihu.com/question/27470113/answer/69680149)
 
 #### 一些面试题
 - [总结了 17 年初到 18 年初百场前端面试的面试经验 (含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
