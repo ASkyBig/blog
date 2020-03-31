@@ -132,6 +132,7 @@
 - [项目不知道如何做性能优化？不妨试一下代码分割](https://juejin.im/post/5e796ec1e51d45271e2a9af9)
 - [Android 浏览器下 line-height 垂直居中为什么会偏离？](https://www.zhihu.com/question/39516424/answer/274374076)
 - [计算机的工作原理是什么样的？](https://www.zhihu.com/question/27470113/answer/69680149)
+- [Serverless For Frontend 前世今生](https://zhuanlan.zhihu.com/p/77095720)
 
 #### 一些面试题
 - [总结了 17 年初到 18 年初百场前端面试的面试经验 (含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
