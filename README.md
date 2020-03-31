@@ -113,6 +113,7 @@
 
 #### 其他
 - [中台的末路](https://xargin.com/the-death-of-middleground/)
+- [谷歌 Material Design 从这些方面打破了我的思维局限](https://zhuanlan.zhihu.com/p/24887891)
 - [关于 Vue 和 React 的一些对比及个人思考](https://juejin.im/post/5e153e096fb9a048297390c1)
 - [一个合格 (优秀) 的前端都应该阅读这些文章](https://juejin.im/post/5d387f696fb9a07eeb13ea60)
 - [一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628)
