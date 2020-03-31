@@ -158,6 +158,7 @@
 - [【前方高能】新手到高级前端攻城狮都用的上的前端面试题库，备战明年金三银四](https://juejin.im/post/5dcbb828f265da4cf85d84b4)
 - [记一次腾讯社招前端面试（已拿到 offer 入职）](https://juejin.im/post/5dcbb828f265da4cf85d84b4)
 - [一篇非常不错的前端面试文章](https://zhuanlan.zhihu.com/p/27635869)
+- [写给女朋友的中级前端面试秘籍（含详细答案，15k 级别）](https://juejin.im/post/5e7af0685188255dcf4a497e)
 ---
 ### tools
 
