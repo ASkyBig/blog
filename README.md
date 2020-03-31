@@ -88,6 +88,7 @@
 - [1 分钟快速排查内存泄漏](https://juejin.im/post/5dde1b6c5188254d0b0201e6)
 - [为什么所有主要浏览器的 User-Agent 都是 Mozilla/x.0 开头？](https://www.zhihu.com/question/19553117/answer/114306637)
 - [万字详文：深入理解浏览器原理](https://zhuanlan.zhihu.com/p/96986818)
+- [从 Chrome 源码看浏览器如何计算 CSS](https://zhuanlan.zhihu.com/p/25380611)
 
 #### 小程序
 - [京喜小程序的高性能打造之路](https://mp.weixin.qq.com/s/nXModRImp4H7iisMQSc2Wg)
