@@ -71,6 +71,7 @@
 - [[译] 为什么需要在 React 类组件中为事件处理程序绑定 this](https://juejin.im/post/5afa6e2f6fb9a07aa2137f51)
 - [从零开发一套完整的 react 项目开发环境](https://juejin.im/post/5e605d15e51d4526d6406a92)
 - [React 项目性能分析及优化](https://zhuanlan.zhihu.com/p/120748634)
+- [你真的理解 setState 吗？](https://juejin.im/post/5b45c57c51882519790c7441)
 
 #### Vue
 - [vue 中 Axios 的封装和 API 接口的管理](https://juejin.im/post/5b55c118f265da0f6f1aa354)
