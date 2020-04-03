@@ -138,6 +138,8 @@
 - [Serverless For Frontend 前世今生](https://zhuanlan.zhihu.com/p/77095720)
 - [页面可视化搭建工具前生今世](https://zhuanlan.zhihu.com/p/37171897)
 - [深入 JavaScript 设计模式，从此有了优化代码的理论依据](https://juejin.im/post/5d58ca046fb9a06ad0056cc7)
+- [前端技术观察第 14 期 — JavaScript 20年发展史](https://mp.weixin.qq.com/s/MdnB2sg-HaHsc_0P0nklEQ)
+
 #### 一些面试题
 - [总结了 17 年初到 18 年初百场前端面试的面试经验 (含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
 - [如何通过饿了么 Node.js 面试](https://elemefe.github.io/node-interview/#/sections/zh-cn/)
