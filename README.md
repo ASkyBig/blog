@@ -172,6 +172,7 @@
 - [写给女朋友的中级前端面试秘籍（含详细答案，15k 级别）](https://juejin.im/post/5e7af0685188255dcf4a497e)
 - [写给初中级前端的高级进阶指南（万字长文，更新 TypeScript 碎碎念）](https://juejin.im/post/5e7c08bde51d455c4c66ddad)
 - [在阿里我是如何当面试官的（持续更新）](https://juejin.im/post/5e6ebfa86fb9a07ca714d0ec)
+- [2020 三元同学春招阿里淘系、阿里云、字节跳动面经 & 个人成长经验分享 | 掘金技术征文](https://juejin.im/post/5e7d4e8b6fb9a03c6422f112)
 ---
 ### tools
 
