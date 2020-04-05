@@ -21,6 +21,7 @@
 - [前端安全系列（一）：如何防止 XSS 攻击？](https://juejin.im/post/5bad9140e51d450e935c6d64)
 - [我知道的跨域与安全](https://juejin.im/post/5a6320d56fb9a01cb64ee191)
 - [面试官：讲讲 DNS 的原理？](https://zhuanlan.zhihu.com/p/79350395)
+- [阿里 P7：你了解路由吗？](https://juejin.im/post/5e85cb8151882573c66cf63f)
 
 #### JavaScript
 - [我用了两个月的时间才理解 let](https://zhuanlan.zhihu.com/p/28140450)
