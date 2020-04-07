@@ -107,6 +107,7 @@
 - [学习后端鉴权系列：基于 Cookie, Session 认证](https://juejin.im/post/5d98272be51d4578176b4b6e)
 - [傻傻分不清之 Cookie、Session、Token、JWT](https://juejin.im/post/5e055d9ef265da33997a42cc)
 - [8 分钟带你深入浅出搞懂 Nginx](https://zhuanlan.zhihu.com/p/34943332)
+- [WebSocket 是什么原理？为什么可以实现持久连接？](https://www.zhihu.com/question/20215561/answer/40316953)
 
 #### 工具
 - [不聊 webpack 配置，来说说它的原理](https://juejin.im/post/5b38d27451882574d87aa5d5)
