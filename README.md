@@ -52,6 +52,7 @@
 - [Proxy 的巧用](https://juejin.im/post/5d2e657ae51d4510b71da69d)
 - [我还没搞懂 JS 中 this 指向及继承，直到有人向我这样解释它](https://juejin.im/post/5cfd9d30f265da1b94213d28)
 - [从 Chrome 源码看 JS Object 的实现](https://zhuanlan.zhihu.com/p/26169639)
+- [为什么 Js 中 localStroage 只能存 string 类型的 value？](https://www.zhihu.com/question/366665675/answer/1127726009)
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
