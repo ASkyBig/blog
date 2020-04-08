@@ -182,11 +182,13 @@
 - [2 万字 | 前端基础拾遗 90 问](https://juejin.im/post/5e8b261ae51d4546c0382ab4)
 ---
 ### tools
+- [test-cors.org](http://test-cors.org)
+- [patorjk](http://patorjk.com/software/taag/#p=display&f=Alpha&t=HIRE)：生成特殊字符
 
 #### css 相关
 
 - [css-tricks](https://css-tricks.com/the-sass-ampersand/)：怎么使用 scss
 - [iconfont](https://www.iconfont.cn/)：阿里icon
 - [flexbox](https://drafts.csswg.org/css-flexbox-1/#layout-algorithm)：flexbox 草案
-- [patorjk](http://patorjk.com/software/taag/#p=display&f=Alpha&t=HIRE)：生成特殊字符
+
 
