@@ -54,6 +54,7 @@
 - [我还没搞懂 JS 中 this 指向及继承，直到有人向我这样解释它](https://juejin.im/post/5cfd9d30f265da1b94213d28)
 - [从 Chrome 源码看 JS Object 的实现](https://zhuanlan.zhihu.com/p/26169639)
 - [为什么 Js 中 localStroage 只能存 string 类型的 value？](https://www.zhihu.com/question/366665675/answer/1127726009)
+- [2 万字 | 前端基础拾遗 90 问](https://juejin.im/post/5e8b261ae51d4546c0382ab4)
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
@@ -181,7 +182,7 @@
 - [写给初中级前端的高级进阶指南（万字长文，更新 TypeScript 碎碎念）](https://juejin.im/post/5e7c08bde51d455c4c66ddad)
 - [在阿里我是如何当面试官的（持续更新）](https://juejin.im/post/5e6ebfa86fb9a07ca714d0ec)
 - [2020 三元同学春招阿里淘系、阿里云、字节跳动面经 & 个人成长经验分享 | 掘金技术征文](https://juejin.im/post/5e7d4e8b6fb9a03c6422f112)
-- [2 万字 | 前端基础拾遗 90 问](https://juejin.im/post/5e8b261ae51d4546c0382ab4)
+- [艺术喵 2 年前端面试心路历程（字节跳动、YY、虎牙、BIGO）| 掘金技术征文](https://juejin.im/post/5e85ec79e51d4547153d0738)
 ---
 ### tools
 - [test-cors.org](http://test-cors.org)
