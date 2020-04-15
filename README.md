@@ -9,6 +9,7 @@
 #### 数据结构与算法
 - [5 分钟带你领略：写一个二分查找为什么让面试者挂的这么惨？](https://juejin.im/post/5d8f6856e51d45784227aca6)
 - [[力扣] DP 问题分类汇总](https://zhuanlan.zhihu.com/p/126546914)
+- [告别动态规划，连刷 40 道题，我总结了这些套路，看不懂你打我（万字长文）](https://zhuanlan.zhihu.com/p/91582909)
 
 #### HTTP
 - [在浏览器地址栏输入一个URL后回车，背后会进行哪些技术步骤？ - 车小胖的回答 - 知乎](https://www.zhihu.com/question/34873227/answer/518086565)
