@@ -18,6 +18,7 @@
 - [你真的了解 Cookie 和 Session 吗](https://juejin.im/post/5cd9037ee51d456e5c5babca)
 - [当浏览器全面禁用三方 Cookie](https://juejin.im/post/5e97124df265da47b27d97ff)
 - [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://juejin.im/entry/5981c5df518825359a2b9476)
+- [《大前端进阶 安全》系列 HTTPS 详解（通俗易懂）](https://juejin.im/post/5e95ed89518825739208ec79)
 - [（建议精读）HTTP 灵魂之问，巩固你的 HTTP 知识体系](https://juejin.im/post/5e76bd516fb9a07cce750746)
 - [图解 Http 缓存控制之 max-age=0、no-cache、no-store 区别](https://zhuanlan.zhihu.com/p/55623075)
 - [(建议收藏) TCP 协议灵魂之问，巩固你的网路底层基础](https://juejin.im/post/5e527c58e51d4526c654bf41)
