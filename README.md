@@ -46,6 +46,7 @@
 - [这一次，彻底弄懂 Promise 原理](https://juejin.im/post/5d6f7c83e51d4561c541a712)
 - [Promise 之你看得懂的 Promise](https://juejin.im/post/5b32f552f265da59991155f0)
 - [你真的完全掌握了 promise 么？](https://juejin.im/post/5af29a62f265da0b8f628973)
+- [解读 Promise 内部实现原理](https://juejin.im/post/5a30193051882503dc53af3c)
 - [TypeScript 安利指南](https://juejin.im/post/5d8efeace51d45782b0c1bd6)
 - [JSBridge 的原理](https://juejin.im/post/5abca877f265da238155b6bc)
 - [JS 高级之手写一个 Promise,Generator,async 和 await【近 1W 字】](https://juejin.im/post/5df83b93f265da33f8652ccc)
