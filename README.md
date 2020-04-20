@@ -150,6 +150,8 @@
 - [页面可视化搭建工具前生今世](https://zhuanlan.zhihu.com/p/37171897)
 - [深入 JavaScript 设计模式，从此有了优化代码的理论依据](https://juejin.im/post/5d58ca046fb9a06ad0056cc7)
 - [前端技术观察第 14 期 — JavaScript 20年发展史](https://mp.weixin.qq.com/s/MdnB2sg-HaHsc_0P0nklEQ)
+- [前端生产方式：过去 10 年回顾和未来 10 年展望](https://mp.weixin.qq.com/s/c6-9wnxKTq5w3BVqlBFxPQ)
+- [面向对象编程，再见！](https://mp.weixin.qq.com/s/MndDONJy6it8G_kJZK1yww)
 
 #### 一些面试题
 - [总结了 17 年初到 18 年初百场前端面试的面试经验 (含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
