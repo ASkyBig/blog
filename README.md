@@ -110,7 +110,7 @@
 #### Node
 - [你真的懂 package.json 吗](https://juejin.im/post/5dea1095e51d4558083322e2)
 - [消息队列助你成为高薪的 Node.js 工程师](https://juejin.im/post/5dd8cd7ae51d4523501f7331)
-- [【知乎 Live】狼叔：如何正确的学习 Node.js)(https://www.bookstack.cn/read/How-to-learn-node-correctly/README.md)
+- [【知乎 Live】狼叔：如何正确的学习 Node.j](https://www.bookstack.cn/read/How-to-learn-node-correctly/README.md)
 - [《吊打面试官》系列 Node.js 全栈秒杀系统](https://zhuanlan.zhihu.com/p/114363815)
 
 #### 后端
