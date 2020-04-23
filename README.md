@@ -59,6 +59,7 @@
 - [从 Chrome 源码看 JS Object 的实现](https://zhuanlan.zhihu.com/p/26169639)
 - [为什么 Js 中 localStroage 只能存 string 类型的 value？](https://www.zhihu.com/question/366665675/answer/1127726009)
 - [2 万字 | 前端基础拾遗 90 问](https://juejin.im/post/5e8b261ae51d4546c0382ab4)
+- [一个合格的中级前端工程师需要掌握的 28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516)
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
@@ -135,7 +136,6 @@
 - [关于 Vue 和 React 的一些对比及个人思考](https://juejin.im/post/5e153e096fb9a048297390c1)
 - [一个合格 (优秀) 的前端都应该阅读这些文章](https://juejin.im/post/5d387f696fb9a07eeb13ea60)
 - [一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628)
-- [一个合格的中级前端工程师需要掌握的 28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516)
 - [解密初、中、高级程序员的进化之路（前端）](https://juejin.im/post/5d3a6d9e51882570d50f5566)
 - [我如何零基础转行成为一个自信的前端](https://juejin.im/post/5c75d34851882564965edb23)
 - [9 个项目助你在 2020 年成为前端大神！](https://juejin.im/post/5dc0c744e51d456e7e41f5ac)
@@ -154,6 +154,7 @@
 - [前端技术观察第 14 期 — JavaScript 20年发展史](https://mp.weixin.qq.com/s/MdnB2sg-HaHsc_0P0nklEQ)
 - [前端生产方式：过去 10 年回顾和未来 10 年展望](https://mp.weixin.qq.com/s/c6-9wnxKTq5w3BVqlBFxPQ)
 - [面向对象编程，再见！](https://mp.weixin.qq.com/s/MndDONJy6it8G_kJZK1yww)
+- [垃圾代码书写准则](https://github.com/trekhleb/state-of-the-art-shitcode/blob/master/README.zh-CN.md)
 
 #### 一些面试题
 - [总结了 17 年初到 18 年初百场前端面试的面试经验 (含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
