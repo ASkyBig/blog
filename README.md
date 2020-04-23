@@ -155,6 +155,7 @@
 - [前端生产方式：过去 10 年回顾和未来 10 年展望](https://mp.weixin.qq.com/s/c6-9wnxKTq5w3BVqlBFxPQ)
 - [面向对象编程，再见！](https://mp.weixin.qq.com/s/MndDONJy6it8G_kJZK1yww)
 - [垃圾代码书写准则](https://github.com/trekhleb/state-of-the-art-shitcode/blob/master/README.zh-CN.md)
+- [函数式编程简介](https://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=402307374&idx=1&sn=2ff35dc5bcadab0bbeae626f48f4e18e#rd)
 
 #### 一些面试题
 - [总结了 17 年初到 18 年初百场前端面试的面试经验 (含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
