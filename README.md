@@ -196,6 +196,7 @@
 - [2020 三元同学春招阿里淘系、阿里云、字节跳动面经 & 个人成长经验分享 | 掘金技术征文](https://juejin.im/post/5e7d4e8b6fb9a03c6422f112)
 - [艺术喵 2 年前端面试心路历程（字节跳动、YY、虎牙、BIGO）| 掘金技术征文](https://juejin.im/post/5e85ec79e51d4547153d0738)
 - [一位前端小姐姐的五万字面试宝典](https://juejin.im/post/5e91b01651882573716a9b23)
+- [记一道简单的java面试题](https://zhuanlan.zhihu.com/p/57859872?utm_source=wechat_session&utm_medium=social&utm_oi=1064990464771514368)
 ---
 ### tools
 - [test-cors.org](http://test-cors.org)
