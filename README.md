@@ -133,6 +133,7 @@
 - [【建议改成】读完这篇你还不懂 Babel 我给你寄口罩](https://juejin.im/post/5e477139f265da574c566dda)
 - [不容错过的 Babel7 知识](https://juejin.im/post/5ddff3abe51d4502d56bd143)
 - [在开发前端项目时，源文件被修改后，浏览器自动更新是什么原理？](https://www.zhihu.com/question/389806600/answer/1175494512)
+- [轻松理解 webpack 热更新原理](https://juejin.im/post/5de0cfe46fb9a071665d3df0)
 
 #### 其他
 - [中台的末路](https://xargin.com/the-death-of-middleground/)
