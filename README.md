@@ -59,6 +59,7 @@
 - [我还没搞懂 JS 中 this 指向及继承，直到有人向我这样解释它](https://juejin.im/post/5cfd9d30f265da1b94213d28)
 - [从 Chrome 源码看 JS Object 的实现](https://zhuanlan.zhihu.com/p/26169639)
 - [为什么 Js 中 localStroage 只能存 string 类型的 value？](https://www.zhihu.com/question/366665675/answer/1127726009)
+- [关于 localStorage 的常规回答以及加分回答](https://juejin.im/post/5e9bbf9451882573965183b5)
 - [2 万字 | 前端基础拾遗 90 问](https://juejin.im/post/5e8b261ae51d4546c0382ab4)
 - [一个合格的中级前端工程师需要掌握的 28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516)
 
