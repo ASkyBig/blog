@@ -166,6 +166,7 @@
 - [函数式编程简介](https://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=402307374&idx=1&sn=2ff35dc5bcadab0bbeae626f48f4e18e#rd)
 - [深入理解 MVC](https://zhuanlan.zhihu.com/p/35680070)
 - [我，要把这 200 万张页面切出来上线](https://juejin.im/post/5e97f1316fb9a03c53519373)
+- [为什么计算机采用补码而不是原码或反码？](https://www.zhihu.com/question/352057791/answer/1154685577)
 
 #### 一些面试题
 - [总结了 17 年初到 18 年初百场前端面试的面试经验 (含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
