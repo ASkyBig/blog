@@ -206,6 +206,7 @@
 - [艺术喵 2 年前端面试心路历程（字节跳动、YY、虎牙、BIGO）| 掘金技术征文](https://juejin.im/post/5e85ec79e51d4547153d0738)
 - [一位前端小姐姐的五万字面试宝典](https://juejin.im/post/5e91b01651882573716a9b23)
 - [记一道简单的java面试题](https://zhuanlan.zhihu.com/p/57859872?utm_source=wechat_session&utm_medium=social&utm_oi=1064990464771514368)
+- [面试官：请用一句话描述 try catch 能捕获到哪些 JS 异常](https://juejin.im/post/5ea8e2d65188256d8d605b2d)
 ---
 ### tools
 - [test-cors.org](http://test-cors.org)
