@@ -65,6 +65,7 @@
 - [关于 localStorage 的常规回答以及加分回答](https://juejin.im/post/5e9bbf9451882573965183b5)
 - [2 万字 | 前端基础拾遗 90 问](https://juejin.im/post/5e8b261ae51d4546c0382ab4)
 - [一个合格的中级前端工程师需要掌握的 28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516)
+- [为什么 js 里使用了 await 的方法必须定义成 async 的？](https://www.zhihu.com/question/308089255/answer/968251318)
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
