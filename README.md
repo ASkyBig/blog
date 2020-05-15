@@ -140,6 +140,7 @@
 - [不容错过的 Babel7 知识](https://juejin.im/post/5ddff3abe51d4502d56bd143)
 - [在开发前端项目时，源文件被修改后，浏览器自动更新是什么原理？](https://www.zhihu.com/question/389806600/answer/1175494512)
 - [轻松理解 webpack 热更新原理](https://juejin.im/post/5de0cfe46fb9a071665d3df0)
+- [Webpack 中 publicPath 详解](https://juejin.im/post/5ae9ae5e518825672f19b094)
 
 #### 其他
 - [中台的末路](https://xargin.com/the-death-of-middleground/)
