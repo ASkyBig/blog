@@ -15,6 +15,7 @@
 - [在浏览器地址栏输入一个URL后回车，背后会进行哪些技术步骤？ - 车小胖的回答 - 知乎](https://www.zhihu.com/question/34873227/answer/518086565)
 - [GET 和 POST 到底有什么区别？ - 大宽宽的回答 - 知乎](https://www.zhihu.com/question/28586791/answer/767316172)
 - [99% 的人都理解错了 HTTP 中 GET 与 POST 的区别](https://mp.weixin.qq.com/s?__biz=MzI3NzIzMzg3Mw==&mid=100000054&idx=1&sn=71f6c214f3833d9ca20b9f7dcd9d33e4#rd)
+- [听说『99% 的人都理解错了 HTTP 中 GET 与 POST 的区别』？？](https://zhuanlan.zhihu.com/p/25028045)
 - [你真的了解 Cookie 和 Session 吗](https://juejin.im/post/5cd9037ee51d456e5c5babca)
 - [当浏览器全面禁用三方 Cookie](https://juejin.im/post/5e97124df265da47b27d97ff)
 - [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://juejin.im/entry/5981c5df518825359a2b9476)
