@@ -11,7 +11,7 @@
 - [[力扣] DP 问题分类汇总](https://zhuanlan.zhihu.com/p/126546914)
 - [告别动态规划，连刷 40 道题，我总结了这些套路，看不懂你打我（万字长文）](https://zhuanlan.zhihu.com/p/91582909)
 
-#### HTTP
+#### 计算机基础
 - [在浏览器地址栏输入一个URL后回车，背后会进行哪些技术步骤？ - 车小胖的回答 - 知乎](https://www.zhihu.com/question/34873227/answer/518086565)
 - [GET 和 POST 到底有什么区别？ - 大宽宽的回答 - 知乎](https://www.zhihu.com/question/28586791/answer/767316172)
 - [99% 的人都理解错了 HTTP 中 GET 与 POST 的区别](https://mp.weixin.qq.com/s?__biz=MzI3NzIzMzg3Mw==&mid=100000054&idx=1&sn=71f6c214f3833d9ca20b9f7dcd9d33e4#rd)
@@ -31,6 +31,7 @@
 - [前端静态资源缓存最优解以及 max-age 的陷阱](https://segmentfault.com/a/1190000014134828)
 - [科普一下 CORS 以及如何节省一次 OPTIONS 请求](https://zhuanlan.zhihu.com/p/70032617)
 - [30 分钟理解 CORB 是什么](https://segmentfault.com/a/1190000016126079)
+- [Unicode 和 UTF-8 有什么区别？](https://www.zhihu.com/question/23374078)
 
 #### JavaScript
 - [我用了两个月的时间才理解 let](https://zhuanlan.zhihu.com/p/28140450)
