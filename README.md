@@ -222,6 +222,15 @@
 - [如果你一直学不会 Vim，那是因为你还没玩过这款游戏！](https://zhuanlan.zhihu.com/p/131604755)
 - [Json2Ts](https://app.quicktype.io/)
 - [randomuser](https://randomuser.me/)
+- [图片文字识别](https://ocr.wdku.net/)
+- [ipaddress](https://www.ipaddress.com/)
+- [在线抠图](https://www.gaoding.com/koutu)
+- [在线抠图1](https://www.remove.bg/zh/upload)
+- [在线抠图2](https://burner.bonanza.com/background_burns/41225029/load)
+- [SEO 综合查询](http://seo.chinaz.com/)
+- [WebSocket 在线测试](http://www.websocket-test.com/)
+- [httpbin](http://httpbin.org/#/)
+- [whatismybrowser](https://www.whatismybrowser.com/)
 
 #### css 相关
 
