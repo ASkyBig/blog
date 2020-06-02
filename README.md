@@ -231,6 +231,7 @@
 - [WebSocket 在线测试](http://www.websocket-test.com/)
 - [httpbin](http://httpbin.org/#/)
 - [whatismybrowser](https://www.whatismybrowser.com/)
+- [js 获取网络时间](http://api.m.taobao.com/rest/api3.do?api=mtop.common.getTimestamp)
 
 #### css 相关
 
