@@ -72,6 +72,7 @@
 - [为什么 js 里使用了 await 的方法必须定义成 async 的？](https://www.zhihu.com/question/308089255/answer/968251318)
 - [toLocaleString 了解一下](https://juejin.im/post/5ac7079f5188255c637b3233)
 - [为什么 es6 里的 object 不可迭代？](https://www.zhihu.com/question/50619539)
+- [从 ES6 到 ES10 的新特性万字大总结（不得不收藏）](https://segmentfault.com/a/1190000023062765)
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
