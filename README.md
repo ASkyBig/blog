@@ -74,6 +74,7 @@
 - [为什么 es6 里的 object 不可迭代？](https://www.zhihu.com/question/50619539)
 - [从 ES6 到 ES10 的新特性万字大总结（不得不收藏）](https://segmentfault.com/a/1190000023062765)
 - [AST 抽象语法树 —— 最基础的 javascript 重点知识，99% 的人根本不了解](https://segmentfault.com/a/1190000016231512)
+- [写 JavaScript 函数不得不知的高级技巧](https://zhuanlan.zhihu.com/p/260411988)
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
