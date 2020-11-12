@@ -75,6 +75,9 @@
 - [从 ES6 到 ES10 的新特性万字大总结（不得不收藏）](https://segmentfault.com/a/1190000023062765)
 - [AST 抽象语法树 —— 最基础的 javascript 重点知识，99% 的人根本不了解](https://segmentfault.com/a/1190000016231512)
 - [写 JavaScript 函数不得不知的高级技巧](https://zhuanlan.zhihu.com/p/260411988)
+- [简明 JavaScript 函数式编程 —— 入门篇](https://juejin.im/post/6844903936378273799)
+- [函数式编程进阶：杰克船长的黑珍珠号](https://zhuanlan.zhihu.com/p/100128039)
+- [函数式编程进阶：应用函子](https://zhuanlan.zhihu.com/p/275686659)
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
