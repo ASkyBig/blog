@@ -78,6 +78,7 @@
 - [简明 JavaScript 函数式编程 —— 入门篇](https://juejin.im/post/6844903936378273799)
 - [函数式编程进阶：杰克船长的黑珍珠号](https://zhuanlan.zhihu.com/p/100128039)
 - [函数式编程进阶：应用函子](https://zhuanlan.zhihu.com/p/275686659)
+- [这些高阶的函数技术，你掌握了么](https://juejin.im/post/6892886272377880583)
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
