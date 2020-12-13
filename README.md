@@ -249,7 +249,7 @@
 - [js 获取网络时间](http://api.m.taobao.com/rest/api3.do?api=mtop.common.getTimestamp)
 - [带解释的正则工具](https://hiregex.com/r/LX5Ib3/1)
 - [Git 小徽章](https://shields.io/)
-
+- [验证 yml 格式](http://www.bejson.com/validators/yaml_editor/)
 #### css 相关
 
 - [css-tricks](https://css-tricks.com/the-sass-ampersand/)：怎么使用 scss
