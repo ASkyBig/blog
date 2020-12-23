@@ -79,6 +79,7 @@
 - [函数式编程进阶：杰克船长的黑珍珠号](https://zhuanlan.zhihu.com/p/100128039)
 - [函数式编程进阶：应用函子](https://zhuanlan.zhihu.com/p/275686659)
 - [这些高阶的函数技术，你掌握了么](https://juejin.im/post/6892886272377880583)
+- [关于 JSON.parse (JSON.stringify (obj)) 实现深拷贝的一些坑](https://segmentfault.com/a/1190000020297508)
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
