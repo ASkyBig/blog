@@ -80,6 +80,7 @@
 - [函数式编程进阶：应用函子](https://zhuanlan.zhihu.com/p/275686659)
 - [这些高阶的函数技术，你掌握了么](https://juejin.im/post/6892886272377880583)
 - [关于 JSON.parse (JSON.stringify (obj)) 实现深拷贝的一些坑](https://segmentfault.com/a/1190000020297508)
+- [你应该了解的25个JS技巧](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247505180&idx=1&sn=b8a87a1ad09b049b14cbdedadfce9232&chksm=f952605fce25e9491955c677af76e86dcc2540012e8a2029134bd08df0773325e3ae32b969a8&mpshare=1&scene=1&srcid=01060DLeBguC8QFhJw433J9D&sharer_sharetime=1609943619024&sharer_shareid=c92d96e398868d8f4e3ccfcbe5c2de9e&version=3.1.1.6192&platform=mac#rd)
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
@@ -106,7 +107,6 @@
 - [REACTNATIVE 运行原理](https://idmrchan.com/2019/10/12/react-native-principle-01/)
 - [Dva 源码解析](https://dvajs.com/guide/source-code-explore.html#dva-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
 - [SWR：最具潜力的 React Hooks 数据请求库](https://zhuanlan.zhihu.com/p/89570321)
-- [你应该了解的25个JS技巧](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247505180&idx=1&sn=b8a87a1ad09b049b14cbdedadfce9232&chksm=f952605fce25e9491955c677af76e86dcc2540012e8a2029134bd08df0773325e3ae32b969a8&mpshare=1&scene=1&srcid=01060DLeBguC8QFhJw433J9D&sharer_sharetime=1609943619024&sharer_shareid=c92d96e398868d8f4e3ccfcbe5c2de9e&version=3.1.1.6192&platform=mac#rd)
 
 #### Vue
 - [vue 中 Axios 的封装和 API 接口的管理](https://juejin.im/post/5b55c118f265da0f6f1aa354)
