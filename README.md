@@ -83,6 +83,7 @@
 - [关于 JSON.parse (JSON.stringify (obj)) 实现深拷贝的一些坑](https://segmentfault.com/a/1190000020297508)
 - [你应该了解的25个JS技巧](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247505180&idx=1&sn=b8a87a1ad09b049b14cbdedadfce9232&chksm=f952605fce25e9491955c677af76e86dcc2540012e8a2029134bd08df0773325e3ae32b969a8&mpshare=1&scene=1&srcid=01060DLeBguC8QFhJw433J9D&sharer_sharetime=1609943619024&sharer_shareid=c92d96e398868d8f4e3ccfcbe5c2de9e&version=3.1.1.6192&platform=mac#rd)
 - [JavaScript代理的惊人力量](https://mp.weixin.qq.com/s?__biz=Mzg2NDAzMjE5NQ==&mid=2247487650&idx=1&sn=00399824eef33f84db11f642ed485e1a&chksm=ce6ed40ef9195d18ac4445e9f46163d8a9fac19ad0ba32c53c70b57fc4e2c6552b810e18728c&mpshare=1&scene=1&srcid=0108jzPYGJruzqpZLm302W1u&sharer_sharetime=1610071298284&sharer_shareid=c92d96e398868d8f4e3ccfcbe5c2de9e&version=3.1.1.6192&platform=mac#rd)
+- [为什么 js 里使用了 await 的方法必须定义成 async 的？](https://www.zhihu.com/question/308089255/answer/968251318)
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
@@ -236,6 +237,11 @@
 - [一位前端小姐姐的五万字面试宝典](https://juejin.im/post/5e91b01651882573716a9b23)
 - [记一道简单的java面试题](https://zhuanlan.zhihu.com/p/57859872?utm_source=wechat_session&utm_medium=social&utm_oi=1064990464771514368)
 - [面试官：请用一句话描述 try catch 能捕获到哪些 JS 异常](https://juejin.im/post/5ea8e2d65188256d8d605b2d)
+- [12 个前端必会 H5 问题及解决方法](https://zhuanlan.zhihu.com/p/181212066)
+- [2020 年，前端工作好找吗？](https://www.zhihu.com/question/407227582/answer/1389395178)
+- [字节前端面试题](https://zhuanlan.zhihu.com/p/295320540)
+- [前端面试总结 2020 年 8 月 16 家公司 (附真实面试题)](https://zhuanlan.zhihu.com/p/224922926)
+
 ---
 ### tools
 - [test-cors.org](http://test-cors.org)
