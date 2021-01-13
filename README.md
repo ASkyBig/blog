@@ -34,6 +34,7 @@
 - [科普一下 CORS 以及如何节省一次 OPTIONS 请求](https://zhuanlan.zhihu.com/p/70032617)
 - [30 分钟理解 CORB 是什么](https://segmentfault.com/a/1190000016126079)
 - [Unicode 和 UTF-8 有什么区别？](https://www.zhihu.com/question/23374078)
+- [揭秘 http2](https://zhuanlan.zhihu.com/p/342749816)
 
 #### JavaScript
 - [我用了两个月的时间才理解 let](https://zhuanlan.zhihu.com/p/28140450)
