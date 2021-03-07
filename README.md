@@ -84,6 +84,7 @@
 - [你应该了解的25个JS技巧](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247505180&idx=1&sn=b8a87a1ad09b049b14cbdedadfce9232&chksm=f952605fce25e9491955c677af76e86dcc2540012e8a2029134bd08df0773325e3ae32b969a8&mpshare=1&scene=1&srcid=01060DLeBguC8QFhJw433J9D&sharer_sharetime=1609943619024&sharer_shareid=c92d96e398868d8f4e3ccfcbe5c2de9e&version=3.1.1.6192&platform=mac#rd)
 - [JavaScript代理的惊人力量](https://mp.weixin.qq.com/s?__biz=Mzg2NDAzMjE5NQ==&mid=2247487650&idx=1&sn=00399824eef33f84db11f642ed485e1a&chksm=ce6ed40ef9195d18ac4445e9f46163d8a9fac19ad0ba32c53c70b57fc4e2c6552b810e18728c&mpshare=1&scene=1&srcid=0108jzPYGJruzqpZLm302W1u&sharer_sharetime=1610071298284&sharer_shareid=c92d96e398868d8f4e3ccfcbe5c2de9e&version=3.1.1.6192&platform=mac#rd)
 - [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
+- [JS 语法 ES6、ES7、ES8、ES9、ES10、ES11、ES12 新特性](https://zhuanlan.zhihu.com/p/354901519)
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
