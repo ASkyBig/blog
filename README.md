@@ -243,6 +243,7 @@
 - [2020 年，前端工作好找吗？](https://www.zhihu.com/question/407227582/answer/1389395178)
 - [字节前端面试题](https://zhuanlan.zhihu.com/p/295320540)
 - [前端面试总结 2020 年 8 月 16 家公司 (附真实面试题)](https://zhuanlan.zhihu.com/p/224922926)
+- [字节跳动最爱考的前端面试题：JavaScript 基础](https://juejin.cn/post/6934500357091360781)
 
 ---
 ### tools
