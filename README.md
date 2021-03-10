@@ -168,6 +168,7 @@
 - [Gitlab-ci: 从零开始的前端自动化部署](https://zhuanlan.zhihu.com/p/184936276)
 - [gitlab-ci 配置详解 (一)](https://segmentfault.com/a/1190000011881435)
 - [gitlab-ci 配置详解 (二)](https://segmentfault.com/a/1190000011890710)
+- [揭秘 webpack loader](https://zhuanlan.zhihu.com/p/104205895)
 
 #### 其他
 - [中台的末路](https://xargin.com/the-death-of-middleground/)
