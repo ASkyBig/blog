@@ -246,6 +246,7 @@
 - [字节前端面试题](https://zhuanlan.zhihu.com/p/295320540)
 - [前端面试总结 2020 年 8 月 16 家公司 (附真实面试题)](https://zhuanlan.zhihu.com/p/224922926)
 - [字节跳动最爱考的前端面试题：JavaScript 基础](https://juejin.cn/post/6934500357091360781)
+- [金三银四的前端社招面经](https://juejin.cn/post/6939774328858738696)
 
 ---
 ### tools
