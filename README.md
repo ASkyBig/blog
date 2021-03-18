@@ -169,6 +169,7 @@
 - [gitlab-ci 配置详解 (一)](https://segmentfault.com/a/1190000011881435)
 - [gitlab-ci 配置详解 (二)](https://segmentfault.com/a/1190000011890710)
 - [揭秘 webpack loader](https://zhuanlan.zhihu.com/p/104205895)
+- [各大厂 webpack5 实践](https://zhuanlan.zhihu.com/p/357125807)
 
 #### 其他
 - [中台的末路](https://xargin.com/the-death-of-middleground/)
@@ -268,6 +269,7 @@
 - [带解释的正则工具](https://hiregex.com/r/LX5Ib3/1)
 - [Git 小徽章](https://shields.io/)
 - [验证 yml 格式](http://www.bejson.com/validators/yaml_editor/)
+- [推荐几款高质量的图片网站](https://mp.weixin.qq.com/s/Epclt-_nGVmNtSTNdccEkg?st=44FF37A2A9BA5A5BDB894049E4473844672773E9E8F38AE5AC6BDDD2CC9F21A63FB4E1F1D9122B79601C390ED85A80FD9B386C241B147E5B30BE68B55DB7A828F8D744645488BEFDBCF45E01450809D1BAB838FC9DC700269E0579E9BC7397A6873C35544FD60DEC10B5E0611530EEBF2DD2087D475B7B81ECCF5B5677AD8D1C98D9E0AB0FEBB54872C3D85CE4CC9308EE7BEA0D13B836DEB4323B29141D4E07024E63287E81706A750B3A9AEE853BFF&vid=1688853027390230&cst=E31C20C87AD3F6065A2361F46B3A12495568CA31D197FD269B1F9651714751161F1A7E37E1D9FC0956E067D6D4741312&deviceid=7645e862-e7d4-4167-94f7-c771f33a97a5&version=3.1.2.6203&platform=mac)
 #### css 相关
 
 - [css-tricks](https://css-tricks.com/the-sass-ampersand/)：怎么使用 scss
