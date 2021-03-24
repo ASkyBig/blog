@@ -170,6 +170,7 @@
 - [gitlab-ci 配置详解 (二)](https://segmentfault.com/a/1190000011890710)
 - [揭秘 webpack loader](https://zhuanlan.zhihu.com/p/104205895)
 - [各大厂 webpack5 实践](https://zhuanlan.zhihu.com/p/357125807)
+- [Webpack 中的 sideEffects 到底该怎么用？](https://zhuanlan.zhihu.com/p/40052192)
 
 #### 其他
 - [中台的末路](https://xargin.com/the-death-of-middleground/)
