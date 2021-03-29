@@ -171,6 +171,8 @@
 - [揭秘 webpack loader](https://zhuanlan.zhihu.com/p/104205895)
 - [各大厂 webpack5 实践](https://zhuanlan.zhihu.com/p/357125807)
 - [Webpack 中的 sideEffects 到底该怎么用？](https://zhuanlan.zhihu.com/p/40052192)
+- [打通任督二脉的前端环境变量 — env](https://juejin.cn/post/6943769360758472735)
+- [当面试官问 Webpack 的时候他想知道什么](https://juejin.cn/post/6943468761575849992)
 
 #### 其他
 - [中台的末路](https://xargin.com/the-death-of-middleground/)
@@ -249,6 +251,7 @@
 - [前端面试总结 2020 年 8 月 16 家公司 (附真实面试题)](https://zhuanlan.zhihu.com/p/224922926)
 - [字节跳动最爱考的前端面试题：JavaScript 基础](https://juejin.cn/post/6934500357091360781)
 - [金三银四的前端社招面经](https://juejin.cn/post/6939774328858738696)
+- [🔥跳槽人速来，面经 & 资源分享](https://juejin.cn/post/6942988170208215076)
 
 ---
 ### tools
