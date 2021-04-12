@@ -12,6 +12,7 @@
 - [告别动态规划，连刷 40 道题，我总结了这些套路，看不懂你打我（万字长文）](https://zhuanlan.zhihu.com/p/91582909)
 - [动态规划之背包问题系列](https://zhuanlan.zhihu.com/p/93857890)
 - [程序员必须掌握哪些算法？](https://www.zhihu.com/question/23148377/answer/1257923183)
+- [字节跳动最爱考的 64 道算法题（JS 版）](https://juejin.cn/post/6947842412102287373)
 
 #### 计算机基础
 - [在浏览器地址栏输入一个URL后回车，背后会进行哪些技术步骤？ - 车小胖的回答 - 知乎](https://www.zhihu.com/question/34873227/answer/518086565)
@@ -86,6 +87,7 @@
 - [JavaScript代理的惊人力量](https://mp.weixin.qq.com/s?__biz=Mzg2NDAzMjE5NQ==&mid=2247487650&idx=1&sn=00399824eef33f84db11f642ed485e1a&chksm=ce6ed40ef9195d18ac4445e9f46163d8a9fac19ad0ba32c53c70b57fc4e2c6552b810e18728c&mpshare=1&scene=1&srcid=0108jzPYGJruzqpZLm302W1u&sharer_sharetime=1610071298284&sharer_shareid=c92d96e398868d8f4e3ccfcbe5c2de9e&version=3.1.1.6192&platform=mac#rd)
 - [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
 - [JS 语法 ES6、ES7、ES8、ES9、ES10、ES11、ES12 新特性](https://zhuanlan.zhihu.com/p/354901519)
+- [一文读懂 TypeScript 泛型及应用（ 7.8K 字）](https://juejin.cn/post/6844904184894980104)
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
