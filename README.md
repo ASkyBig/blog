@@ -35,6 +35,7 @@
 - [30 分钟理解 CORB 是什么](https://segmentfault.com/a/1190000016126079)
 - [Unicode 和 UTF-8 有什么区别？](https://www.zhihu.com/question/23374078)
 - [揭秘 http2](https://zhuanlan.zhihu.com/p/342749816)
+- [掌握设计原则，你就是光（25 个问题，你会几个）](https://juejin.cn/post/6948235657978314783)
 
 #### JavaScript
 - [我用了两个月的时间才理解 let](https://zhuanlan.zhihu.com/p/28140450)
