@@ -116,6 +116,7 @@
 - [SWR：最具潜力的 React Hooks 数据请求库](https://zhuanlan.zhihu.com/p/89570321)
 - [React Hook 中 createContext & useContext 跨组件透传上下文与性能优化](http://www.ptbird.cn/react-createContex-useContext.html#menu_index_1)
 - [Web 现代应用程序架构下的性能优化，渐进式的极致艺术](https://mp.weixin.qq.com/s?__biz=Mzg2NDAzMjE5NQ==&mid=2247487989&idx=1&sn=7d52e6b570f4bb27977978192bec34d8&chksm=ce6ed559f9195c4f4325c5c489253c55f3a1b65e421f62ce09194d1ff408a6a77882950cc675&mpshare=1&scene=1&srcid=0202Tll81kEnQBvxxid2Xbfe&sharer_sharetime=1612230468097&sharer_shareid=c92d96e398868d8f4e3ccfcbe5c2de9e&version=3.1.1.6192&platform=mac#rd)
+- [使用 React Hooks 时要避免的 5 个错误！](https://juejin.cn/post/6937818396859826207)
 
 #### Vue
 - [vue 中 Axios 的封装和 API 接口的管理](https://juejin.im/post/5b55c118f265da0f6f1aa354)
