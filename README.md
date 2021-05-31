@@ -177,6 +177,7 @@
 - [Webpack 中的 sideEffects 到底该怎么用？](https://zhuanlan.zhihu.com/p/40052192)
 - [打通任督二脉的前端环境变量 — env](https://juejin.cn/post/6943769360758472735)
 - [当面试官问 Webpack 的时候他想知道什么](https://juejin.cn/post/6943468761575849992)
+- [渐进式 Unbundled 开发工具探索之路](https://mp.weixin.qq.com/s/735yMXZr3GNafaS3mEy8lA)
 
 #### 其他
 - [中台的末路](https://xargin.com/the-death-of-middleground/)
