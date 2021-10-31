@@ -212,6 +212,7 @@
 - [B 站高可用架构实践](https://zhuanlan.zhihu.com/p/139258985)
 - [如何实现高性能的在线 PDF 预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5)
 - [精读《DOM diff 原理详解》](https://zhuanlan.zhihu.com/p/362539108)
+- [构建大型前端业务项目的一点经验](https://juejin.cn/post/7016948081321050148)
 
 #### 一些面试题
 - [总结了 17 年初到 18 年初百场前端面试的面试经验 (含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
