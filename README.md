@@ -122,6 +122,7 @@
 
 #### Vue
 - [vue 中 Axios 的封装和 API 接口的管理](https://juejin.im/post/5b55c118f265da0f6f1aa354)
+- [一文搞懂 Vue3.0 为什么采用 Proxy](https://mp.weixin.qq.com/s/fx150VtLbYohvmTXwJzD3w)
 
 #### CSS
 - [关于 vertical-align 你应该知道的一切](https://juejin.im/post/5e64ee1df265da573e6734ed)
