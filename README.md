@@ -164,6 +164,7 @@
 - [WebSocket 是什么原理？为什么可以实现持久连接？](https://www.zhihu.com/question/20215561/answer/40316953)
 - [Redis - 避免缓存穿透的利器之 BloomFilter](https://juejin.im/post/5db69365518825645656c0de)
 - [深入理解了 MySQL，你才能说熟悉数据库](https://zhuanlan.zhihu.com/p/66352669)
+- [前端鉴权的兄弟们：cookie、session、token、jwt、单点登录](https://juejin.cn/post/6898630134530752520)
 
 #### 工具
 - [不聊 webpack 配置，来说说它的原理](https://juejin.im/post/5b38d27451882574d87aa5d5)
