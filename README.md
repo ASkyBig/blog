@@ -45,7 +45,6 @@
 - [(2.4w 字，建议收藏)😇原生 JS 灵魂之问 (下), 冲刺🚀进阶最后一公里 (附个人成长经验分享)](https://juejin.im/post/5dd8b3a851882572f56b578f)
 - [微任务、宏任务与 Event-Loop](https://juejin.im/post/5b73d7a6518825610072b42b)
 - [如何写出一个惊艳面试官的深拷贝？](https://juejin.im/post/5d6aa4f96fb9a06b112ad5b1)
-- [隔壁小孩也能看懂的 7 种 JavaScript 继承实现](https://juejin.im/post/5ceb468af265da1bd1463585)
 - [你不知道的 JSON.stringify () 的威力](https://juejin.im/post/5decf09de51d45584d238319)
 - [JavaScript 那些写出来会被同事揍的骚操作](https://juejin.im/post/5e044eb5f265da33b50748c8)
 - [深入 JavaScript 继承原理](https://juejin.im/post/5a96d78ef265da4e9311b4d8)
