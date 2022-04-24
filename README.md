@@ -156,6 +156,7 @@
 - [【知乎 Live】狼叔：如何正确的学习 Node.j](https://www.bookstack.cn/read/How-to-learn-node-correctly/README.md)
 - [《吊打面试官》系列 Node.js 全栈秒杀系统](https://zhuanlan.zhihu.com/p/114363815)
 - [node_modules 困境](https://zhuanlan.zhihu.com/p/137535779)
+- [运行 npm run xxx 的时候发生了什么](https://juejin.cn/post/7078924628525056007)
 
 #### 后端
 - [学习后端鉴权系列：基于 Cookie, Session 认证](https://juejin.im/post/5d98272be51d4578176b4b6e)
