@@ -88,6 +88,7 @@
 - [Async是如何被JavaScript实现的](https://juejin.cn/post/7069317318332907550)
 - [JS 语法 ES6、ES7、ES8、ES9、ES10、ES11、ES12 新特性](https://zhuanlan.zhihu.com/p/354901519)
 - [一文读懂 TypeScript 泛型及应用（ 7.8K 字）](https://juejin.cn/post/6844904184894980104)
+- [JavaScript中变量存储在堆中还是栈中？](https://www.zhihu.com/question/482433315/answer/2083349992)
 
 #### React
 - [react 小书](http://huziketang.mangojuice.top/books/react/)
