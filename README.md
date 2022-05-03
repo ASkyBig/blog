@@ -31,6 +31,7 @@
 - [面试官：讲讲 DNS 的原理？](https://zhuanlan.zhihu.com/p/79350395)
 - [阿里 P7：你了解路由吗？](https://juejin.im/post/5e85cb8151882573c66cf63f)
 - [为什么 HTTPS 需要 7 次握手以及 9 倍时延](https://draveness.me/whys-the-design-https-latency/)
+- [有了 IP 地址，为什么还要用 MAC 地址？](https://www.zhihu.com/question/21546408/answer/2303205686?utm_source=wechat_session&utm_medium=social&utm_oi=41381523357696&utm_content=group3_Answer&utm_campaign=shareopn)
 - [前端静态资源缓存最优解以及 max-age 的陷阱](https://segmentfault.com/a/1190000014134828)
 - [科普一下 CORS 以及如何节省一次 OPTIONS 请求](https://zhuanlan.zhihu.com/p/70032617)
 - [30 分钟理解 CORB 是什么](https://segmentfault.com/a/1190000016126079)
