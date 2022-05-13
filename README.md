@@ -121,6 +121,7 @@
 - [使用 React Hooks 时要避免的 5 个错误！](https://juejin.cn/post/6937818396859826207)
 - [轻松理解为什么不用Index作为key](https://juejin.cn/post/6844904133430870024)
 - [Umi Hooks - 助力拥抱 React Hooks](https://zhuanlan.zhihu.com/p/103150605)
+- [React Hooks 原理与最佳实践](https://mp.weixin.qq.com/s/J0_PLrbVZMRAiwjWK2WDrw)
 
 #### Vue
 - [vue 中 Axios 的封装和 API 接口的管理](https://juejin.im/post/5b55c118f265da0f6f1aa354)
