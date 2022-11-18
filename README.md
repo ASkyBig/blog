@@ -139,6 +139,7 @@
 - [史上最全面、最透彻的BFC原理剖析](https://juejin.cn/post/6844903496970420237#heading-3)
 - [如何解决移动端 Retina 屏 1px 像素问题 ？](https://juejin.cn/post/6994196887402184734)
 - [CSS 实现多行文本“展开收起”](https://juejin.cn/post/6963904955262435336#heading-6)
+- [深入浅出 CSS 动画](https://github.com/chokcoco/iCSS/issues/141)
 
 #### 浏览器知识
 - [从 8 道面试题看浏览器渲染过程与性能优化](https://juejin.im/post/5e143104e51d45414a4715f7)
